@@ -55,7 +55,7 @@
 
 1. **Clone the repository:**
 ```
-git@github.com:anjitha-0123/Ethereum_Project.git
+git@github.com:anjitha-0123/Green-Token-DApp.git
 
 ```
 2.  **Terminal Commands to Run**
