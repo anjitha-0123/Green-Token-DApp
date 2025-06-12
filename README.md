@@ -27,7 +27,7 @@
 
 - **Frontend:** React, Tailwind CSS  
 - **Smart Contracts:** Solidity, Hardhat  
-- **Blockchain Network:** Ethereum (Sepolia Testnet)  
+- **Blockchain Network:**Sepolia Testnet 
 - **Storage:** IPFS via Pinata  
 - **Wallet:** MetaMask  
 - **Smart Contract Interaction:** Ethers.js  
