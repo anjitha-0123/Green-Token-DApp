@@ -57,7 +57,7 @@ https://youtu.be/wH1PYn2g1tY
 
 1. **Clone the repository:**
 ```
-git@github.com:anjitha-0123/Green-Token-DApp.git
+git clone https://github.com/anjitha-0123/Green-Token-DApp.git
 
 ```
 2.  **Terminal Commands to Run**
